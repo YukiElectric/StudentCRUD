@@ -1,0 +1,358 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\trung\\Desktop\\StudentCRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trung\\Desktop\\StudentCRUD\\StudentCRUD\\Migrations\\20240218154358_DbInit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudentCRUD\\Migrations\\20240218154358_DbInit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E498486-297F-4661-9443-7AEBA289C16D}|StudentCRUD\\StudentCRUD.csproj|c:\\users\\trung\\desktop\\studentcrud\\studentcrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8E498486-297F-4661-9443-7AEBA289C16D}|StudentCRUD\\StudentCRUD.csproj|solutionrelative:studentcrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E498486-297F-4661-9443-7AEBA289C16D}|StudentCRUD\\StudentCRUD.csproj|c:\\users\\trung\\desktop\\studentcrud\\studentcrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E498486-297F-4661-9443-7AEBA289C16D}|StudentCRUD\\StudentCRUD.csproj|solutionrelative:studentcrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E498486-297F-4661-9443-7AEBA289C16D}|StudentCRUD\\StudentCRUD.csproj|c:\\users\\trung\\desktop\\studentcrud\\studentcrud\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E498486-297F-4661-9443-7AEBA289C16D}|StudentCRUD\\StudentCRUD.csproj|solutionrelative:studentcrud\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E498486-297F-4661-9443-7AEBA289C16D}|StudentCRUD\\StudentCRUD.csproj|c:\\users\\trung\\desktop\\studentcrud\\studentcrud\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E498486-297F-4661-9443-7AEBA289C16D}|StudentCRUD\\StudentCRUD.csproj|solutionrelative:studentcrud\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E498486-297F-4661-9443-7AEBA289C16D}|StudentCRUD\\StudentCRUD.csproj|c:\\users\\trung\\desktop\\studentcrud\\studentcrud\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E498486-297F-4661-9443-7AEBA289C16D}|StudentCRUD\\StudentCRUD.csproj|solutionrelative:studentcrud\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E498486-297F-4661-9443-7AEBA289C16D}|StudentCRUD\\StudentCRUD.csproj|c:\\users\\trung\\desktop\\studentcrud\\studentcrud\\data\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E498486-297F-4661-9443-7AEBA289C16D}|StudentCRUD\\StudentCRUD.csproj|solutionrelative:studentcrud\\data\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E498486-297F-4661-9443-7AEBA289C16D}|StudentCRUD\\StudentCRUD.csproj|c:\\users\\trung\\desktop\\studentcrud\\studentcrud\\repositories\\irepo\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E498486-297F-4661-9443-7AEBA289C16D}|StudentCRUD\\StudentCRUD.csproj|solutionrelative:studentcrud\\repositories\\irepo\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E498486-297F-4661-9443-7AEBA289C16D}|StudentCRUD\\StudentCRUD.csproj|c:\\users\\trung\\desktop\\studentcrud\\studentcrud\\repositories\\irepo\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E498486-297F-4661-9443-7AEBA289C16D}|StudentCRUD\\StudentCRUD.csproj|solutionrelative:studentcrud\\repositories\\irepo\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E498486-297F-4661-9443-7AEBA289C16D}|StudentCRUD\\StudentCRUD.csproj|c:\\users\\trung\\desktop\\studentcrud\\studentcrud\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E498486-297F-4661-9443-7AEBA289C16D}|StudentCRUD\\StudentCRUD.csproj|solutionrelative:studentcrud\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E498486-297F-4661-9443-7AEBA289C16D}|StudentCRUD\\StudentCRUD.csproj|c:\\users\\trung\\desktop\\studentcrud\\studentcrud\\common\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E498486-297F-4661-9443-7AEBA289C16D}|StudentCRUD\\StudentCRUD.csproj|solutionrelative:studentcrud\\common\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E498486-297F-4661-9443-7AEBA289C16D}|StudentCRUD\\StudentCRUD.csproj|c:\\users\\trung\\desktop\\studentcrud\\studentcrud\\models\\signupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E498486-297F-4661-9443-7AEBA289C16D}|StudentCRUD\\StudentCRUD.csproj|solutionrelative:studentcrud\\models\\signupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E498486-297F-4661-9443-7AEBA289C16D}|StudentCRUD\\StudentCRUD.csproj|c:\\users\\trung\\desktop\\studentcrud\\studentcrud\\models\\signinmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E498486-297F-4661-9443-7AEBA289C16D}|StudentCRUD\\StudentCRUD.csproj|solutionrelative:studentcrud\\models\\signinmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E498486-297F-4661-9443-7AEBA289C16D}|StudentCRUD\\StudentCRUD.csproj|c:\\users\\trung\\desktop\\studentcrud\\studentcrud\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E498486-297F-4661-9443-7AEBA289C16D}|StudentCRUD\\StudentCRUD.csproj|solutionrelative:studentcrud\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E498486-297F-4661-9443-7AEBA289C16D}|StudentCRUD\\StudentCRUD.csproj|c:\\users\\trung\\desktop\\studentcrud\\studentcrud\\common\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E498486-297F-4661-9443-7AEBA289C16D}|StudentCRUD\\StudentCRUD.csproj|solutionrelative:studentcrud\\common\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E498486-297F-4661-9443-7AEBA289C16D}|StudentCRUD\\StudentCRUD.csproj|c:\\users\\trung\\desktop\\studentcrud\\studentcrud\\data\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E498486-297F-4661-9443-7AEBA289C16D}|StudentCRUD\\StudentCRUD.csproj|solutionrelative:studentcrud\\data\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E498486-297F-4661-9443-7AEBA289C16D}|StudentCRUD\\StudentCRUD.csproj|c:\\users\\trung\\desktop\\studentcrud\\studentcrud\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8E498486-297F-4661-9443-7AEBA289C16D}|StudentCRUD\\StudentCRUD.csproj|solutionrelative:studentcrud\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E498486-297F-4661-9443-7AEBA289C16D}|StudentCRUD\\StudentCRUD.csproj|c:\\users\\trung\\desktop\\studentcrud\\studentcrud\\studentcrud.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{8E498486-297F-4661-9443-7AEBA289C16D}|StudentCRUD\\StudentCRUD.csproj|solutionrelative:studentcrud\\studentcrud.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E498486-297F-4661-9443-7AEBA289C16D}|StudentCRUD\\StudentCRUD.csproj|c:\\users\\trung\\desktop\\studentcrud\\studentcrud\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8E498486-297F-4661-9443-7AEBA289C16D}|StudentCRUD\\StudentCRUD.csproj|solutionrelative:studentcrud\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E498486-297F-4661-9443-7AEBA289C16D}|StudentCRUD\\StudentCRUD.csproj|c:\\users\\trung\\desktop\\studentcrud\\studentcrud\\studentcrud.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{8E498486-297F-4661-9443-7AEBA289C16D}|StudentCRUD\\StudentCRUD.csproj|solutionrelative:studentcrud\\studentcrud.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240218154358_DbInit.cs",
+              "DocumentMoniker": "C:\\Users\\trung\\Desktop\\StudentCRUD\\StudentCRUD\\Migrations\\20240218154358_DbInit.cs",
+              "RelativeDocumentMoniker": "StudentCRUD\\Migrations\\20240218154358_DbInit.cs",
+              "ToolTip": "C:\\Users\\trung\\Desktop\\StudentCRUD\\StudentCRUD\\Migrations\\20240218154358_DbInit.cs",
+              "RelativeToolTip": "StudentCRUD\\Migrations\\20240218154358_DbInit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T15:43:58.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\trung\\Desktop\\StudentCRUD\\StudentCRUD\\Repositories\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "StudentCRUD\\Repositories\\AccountRepository.cs",
+              "ToolTip": "C:\\Users\\trung\\Desktop\\StudentCRUD\\StudentCRUD\\Repositories\\AccountRepository.cs",
+              "RelativeToolTip": "StudentCRUD\\Repositories\\AccountRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T13:31:07.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\trung\\Desktop\\StudentCRUD\\StudentCRUD\\Program.cs",
+              "RelativeDocumentMoniker": "StudentCRUD\\Program.cs",
+              "ToolTip": "C:\\Users\\trung\\Desktop\\StudentCRUD\\StudentCRUD\\Program.cs",
+              "RelativeToolTip": "StudentCRUD\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T12:22:43.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\trung\\Desktop\\StudentCRUD\\StudentCRUD\\Repositories\\IRepo\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "StudentCRUD\\Repositories\\IRepo\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\trung\\Desktop\\StudentCRUD\\StudentCRUD\\Repositories\\IRepo\\IStudentRepository.cs",
+              "RelativeToolTip": "StudentCRUD\\Repositories\\IRepo\\IStudentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T13:31:36.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\trung\\Desktop\\StudentCRUD\\StudentCRUD\\Repositories\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "StudentCRUD\\Repositories\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\trung\\Desktop\\StudentCRUD\\StudentCRUD\\Repositories\\StudentRepository.cs",
+              "RelativeToolTip": "StudentCRUD\\Repositories\\StudentRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAywB8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T13:30:54.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\trung\\Desktop\\StudentCRUD\\StudentCRUD\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "StudentCRUD\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\trung\\Desktop\\StudentCRUD\\StudentCRUD\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "StudentCRUD\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T13:28:03.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\trung\\Desktop\\StudentCRUD\\StudentCRUD\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentCRUD\\appsettings.json",
+              "ToolTip": "C:\\Users\\trung\\Desktop\\StudentCRUD\\StudentCRUD\\appsettings.json",
+              "RelativeToolTip": "StudentCRUD\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAACbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-18T12:19:07.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\trung\\Desktop\\StudentCRUD\\StudentCRUD\\Repositories\\IRepo\\IAccountRepository.cs",
+              "RelativeDocumentMoniker": "StudentCRUD\\Repositories\\IRepo\\IAccountRepository.cs",
+              "ToolTip": "C:\\Users\\trung\\Desktop\\StudentCRUD\\StudentCRUD\\Repositories\\IRepo\\IAccountRepository.cs",
+              "RelativeToolTip": "StudentCRUD\\Repositories\\IRepo\\IAccountRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T13:31:22.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\trung\\Desktop\\StudentCRUD\\StudentCRUD\\Common\\Role.cs",
+              "RelativeDocumentMoniker": "StudentCRUD\\Common\\Role.cs",
+              "ToolTip": "C:\\Users\\trung\\Desktop\\StudentCRUD\\StudentCRUD\\Common\\Role.cs",
+              "RelativeToolTip": "StudentCRUD\\Common\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T14:26:08.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\trung\\Desktop\\StudentCRUD\\StudentCRUD\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "StudentCRUD\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\trung\\Desktop\\StudentCRUD\\StudentCRUD\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "StudentCRUD\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T13:27:50.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\trung\\Desktop\\StudentCRUD\\StudentCRUD\\Data\\Student.cs",
+              "RelativeDocumentMoniker": "StudentCRUD\\Data\\Student.cs",
+              "ToolTip": "C:\\Users\\trung\\Desktop\\StudentCRUD\\StudentCRUD\\Data\\Student.cs",
+              "RelativeToolTip": "StudentCRUD\\Data\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T13:32:41.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SignUpModel.cs",
+              "DocumentMoniker": "C:\\Users\\trung\\Desktop\\StudentCRUD\\StudentCRUD\\Models\\SignUpModel.cs",
+              "RelativeDocumentMoniker": "StudentCRUD\\Models\\SignUpModel.cs",
+              "ToolTip": "C:\\Users\\trung\\Desktop\\StudentCRUD\\StudentCRUD\\Models\\SignUpModel.cs",
+              "RelativeToolTip": "StudentCRUD\\Models\\SignUpModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T13:51:08.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Mapper.cs",
+              "DocumentMoniker": "C:\\Users\\trung\\Desktop\\StudentCRUD\\StudentCRUD\\Common\\Mapper.cs",
+              "RelativeDocumentMoniker": "StudentCRUD\\Common\\Mapper.cs",
+              "ToolTip": "C:\\Users\\trung\\Desktop\\StudentCRUD\\StudentCRUD\\Common\\Mapper.cs",
+              "RelativeToolTip": "StudentCRUD\\Common\\Mapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T12:28:50.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StudentModel.cs",
+              "DocumentMoniker": "C:\\Users\\trung\\Desktop\\StudentCRUD\\StudentCRUD\\Models\\StudentModel.cs",
+              "RelativeDocumentMoniker": "StudentCRUD\\Models\\StudentModel.cs",
+              "ToolTip": "C:\\Users\\trung\\Desktop\\StudentCRUD\\StudentCRUD\\Models\\StudentModel.cs",
+              "RelativeToolTip": "StudentCRUD\\Models\\StudentModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T13:50:30.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SignInModel.cs",
+              "DocumentMoniker": "C:\\Users\\trung\\Desktop\\StudentCRUD\\StudentCRUD\\Models\\SignInModel.cs",
+              "RelativeDocumentMoniker": "StudentCRUD\\Models\\SignInModel.cs",
+              "ToolTip": "C:\\Users\\trung\\Desktop\\StudentCRUD\\StudentCRUD\\Models\\SignInModel.cs",
+              "RelativeToolTip": "StudentCRUD\\Models\\SignInModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T13:50:57.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StudentContext.cs",
+              "DocumentMoniker": "C:\\Users\\trung\\Desktop\\StudentCRUD\\StudentCRUD\\Data\\StudentContext.cs",
+              "RelativeDocumentMoniker": "StudentCRUD\\Data\\StudentContext.cs",
+              "ToolTip": "C:\\Users\\trung\\Desktop\\StudentCRUD\\StudentCRUD\\Data\\StudentContext.cs",
+              "RelativeToolTip": "StudentCRUD\\Data\\StudentContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T13:33:02.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StudentCRUD.http",
+              "DocumentMoniker": "C:\\Users\\trung\\Desktop\\StudentCRUD\\StudentCRUD\\StudentCRUD.http",
+              "RelativeDocumentMoniker": "StudentCRUD\\StudentCRUD.http",
+              "ToolTip": "C:\\Users\\trung\\Desktop\\StudentCRUD\\StudentCRUD\\StudentCRUD.http",
+              "RelativeToolTip": "StudentCRUD\\StudentCRUD.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-02-18T13:19:28.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\trung\\Desktop\\StudentCRUD\\StudentCRUD\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "StudentCRUD\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\trung\\Desktop\\StudentCRUD\\StudentCRUD\\appsettings.Development.json",
+              "RelativeToolTip": "StudentCRUD\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-18T13:19:22.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\trung\\Desktop\\StudentCRUD\\StudentCRUD\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "StudentCRUD\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\trung\\Desktop\\StudentCRUD\\StudentCRUD\\Properties\\launchSettings.json",
+              "RelativeToolTip": "StudentCRUD\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-18T12:21:09.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StudentCRUD",
+              "DocumentMoniker": "C:\\Users\\trung\\Desktop\\StudentCRUD\\StudentCRUD\\StudentCRUD.csproj",
+              "RelativeDocumentMoniker": "StudentCRUD\\StudentCRUD.csproj",
+              "ToolTip": "C:\\Users\\trung\\Desktop\\StudentCRUD\\StudentCRUD\\StudentCRUD.csproj",
+              "RelativeToolTip": "StudentCRUD\\StudentCRUD.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-18T12:21:04.488Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
